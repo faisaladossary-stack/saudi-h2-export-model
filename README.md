@@ -1,7 +1,7 @@
 # saudi-h2-export-model
 Stochastic techno-economic model of Saudi hydrogen export pathways (MSc thesis, Imperial College London).
 
-# Saudi Hydrogen Export Pathways — Stochastic TEA
+# Saudi Hydrogen Export Pathways (Stochastic TEA)
 
 MSc thesis model (Imperial College London). One notebook regenerates
 every figure and table in the thesis: Run All executes the full
